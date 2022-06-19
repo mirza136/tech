@@ -11,6 +11,9 @@ body {
     color:aliceblue;
     font-size: large;
 }
+.l{
+     margin-bottom: 20px;
+}
 .nav,
 .slider {
     display: flex;
